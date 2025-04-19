@@ -91,4 +91,5 @@ When using this system, consider the following:
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+Distributed under the MIT License © 2025 Mamunur Akand.  
+See [LICENSE](./LICENSE) for more information.
