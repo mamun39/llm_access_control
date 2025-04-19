@@ -21,7 +21,7 @@ This project implements an LLM-based solution for access control. It uses langua
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/llm-access-control.git
+git clone git@github.com:mamun39/llm_access_control.git
 cd llm-access-control
 ```
 
